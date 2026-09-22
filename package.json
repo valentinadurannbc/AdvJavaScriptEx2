@@ -1,0 +1,26 @@
+{
+  "name": "firstexpressapp",
+  "version": "1.0.0",
+  "description": "My first Express app",
+  "homepage": "https://github.com/valentinadurannbc/AdvJavaScriptEx2#readme",
+  "bugs": {
+    "url": "https://github.com/valentinadurannbc/AdvJavaScriptEx2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentinadurannbc/AdvJavaScriptEx2.git"
+  },
+  "author": "valentina duran",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "chalk": "^6.0.0",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
