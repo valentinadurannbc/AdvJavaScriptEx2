@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "make": "Jeep",
+        "model": "Wrangler",
+        "description": "Go anywhere",
+        "img": "https://d2ivfcfbdvj3sm.cloudfront.net/7fc965ab77efe6e0fa62e4ca1ea7673bb25e46530b1e3d8e88cb10/stills_0640_png/MY2021/14720/14720_st0640_116.png"
+    },
+    {
+        "id": 2,
+        "make": "Land Rover",
+        "model": "Defender",
+        "description": "Go anywhere in style",
+        "img": "https://cdn.shopify.com/s/files/1/0043/8471/8938/products/161973510117619813_7bcb68e7-8a52-402b-968e-cab8e92e7247_812x.jpg?v=1620341041"
+    }, {
+        "id": 3,
+        "make": "Toyota",
+        "model": "4Runner",
+        "description": "Go anywhere reliably",
+        "img": "https://cars.usnews.com/pics/size/776x517/images/Auto/izmo/i159614327/2021_toyota_4runner_angularfront.jpg"
+    }
+]
